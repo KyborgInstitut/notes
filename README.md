@@ -8,9 +8,13 @@ Ziel: Wenn man nach Monaten oder Jahren wieder dasselbe machen muss, findet man 
 
 ---
 
-*(Alle Anleitungen basieren auf realen Durchläufen und werden laufend gepflegt.)*
+*(Alle Anleitungen basieren auf realen Durchläufen und werden bei Bedarf gepflegt.)*
 
 *Kyborg Institut – Technik verständlich und reproduzierbar.*
+
+### Netzwerk
+
+[FS S5860-20SQ Firmware uprade](network/fs-S5860-20SQ.md)
 
 
 ## Über das Kyborg Institut
